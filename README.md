@@ -16,6 +16,8 @@ Memory controller for SPI memory
 
 ## Supported memory ICs
 
+Spansion S25FL016K
+
 ## Quad mode timing
 
 ```js
