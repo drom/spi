@@ -17,7 +17,7 @@ Memory controller for SPI memory
 
 ## Supported memory ICs
 
-Spansion S25FL016K
+Spansion [S25FL{004|008|016}K](https://www.spansion.com/Support/Datasheets/S25FL004K-016K_00.pdf)
 
 ## Quad mode timing
 
