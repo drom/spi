@@ -20,6 +20,7 @@ Spansion S25FL016K
 
 ## Quad mode timing
 
+![quad spi addr mode](img/quad_spi_addr_mode.png)
 ```js
 {signal: [
   {name: 'SS#', wave: '10.................'},
