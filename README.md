@@ -5,7 +5,10 @@ Cache controller for SPI memory
 
 ### Internal interface
  - 8, 16, 32, 64 bit configurable
+ - multiple initiators
+ - optional FIFO
+ - Boot from external memory
 
 ### External interface
- - Boot from external memory
- - Quad SPI
+ - single, dual and quad SPI
+ - multiple chip support
