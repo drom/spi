@@ -13,6 +13,7 @@ Memory controller for SPI memory
 ### External interface
  - single, dual and quad SPI
  - multiple chip support point-to-point
+ - configurable clock phase
 
 ## Supported memory ICs
 
