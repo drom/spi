@@ -46,3 +46,14 @@ Memory controller for SPI memory
 }
 ```
 
+## Clock modes
+
+```js
+{signal: [
+  {name: 'mode:0, CPOL:0, CPHA:0', wave: '0.Pp......', phase: 0.5},
+  {name: 'mode:1, CPOL:0, CPHA:1', wave: '0p.......l'},
+  {name: 'mode:2, CPOL:1, CPHA:0', wave: '1.Nn......', phase: 0.5},
+  {name: 'mode:3, CPOL:1, CPHA:1', wave: '1n.......h'},
+  {name: 'SDI',                    wave: 'x========x', data: '7 6 5 4 3 2 1 0'},
+]}
+```
