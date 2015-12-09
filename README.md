@@ -48,6 +48,8 @@ Memory controller for SPI memory
 
 ## Clock modes
 
+![clock modes](img/clock_modes.png)
+
 ```js
 {signal: [
   {name: 'mode:0, CPOL:0, CPHA:0', wave: '0.Pp......', phase: 0.5},
