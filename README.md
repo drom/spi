@@ -6,8 +6,7 @@ Memory controller for SPI memory
 ### Internal interface
  - 8, 16, 32, 64 bit configurable
  - multiple initiators
- - optional FIFO
- - configurable cache
+ - configurable cache organization, entries, associativity
  - Boot from external memory
 
 ### External interface
