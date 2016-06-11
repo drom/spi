@@ -1,7 +1,7 @@
 {signal: [
-  {name: 'cmd_dat', wave: 'x3', data: 'C2' },
-  {name: 'cmd_req', wave: '01' },
-  {name: 'cmd_res', wave: '1.0' },
+  {name: 'tdat', wave: 'x3', data: 'C2' },
+  {name: 'treq', wave: '01' },
+  {name: 'tres', wave: '1.0' },
   {},
   {name: 'SS#',   wave: '=.0.........................'},
   {name: 'SCK',   wave: '=..n........................'},
