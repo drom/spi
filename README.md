@@ -29,6 +29,8 @@ Memory controller for SPI memory
  - Windbond [W25Q20EW](https://www.winbond.com/resource-files/w25q20ew_revf%2011252015%20sfdp.pdf)
  - ON Semi [LE25S81A](http://www.onsemi.com/pub_link/Collateral/LE25S81A-D.PDF)
  - ESMT [F25D64QA](http://www.esmt.com.tw/DB/manager/upload/F25D64QA_1.pdf)
+ - AMIC [A25LQ080](http://www.amictechnology.com/datasheets/A25LQ080.pdf)
+ - GeneralPlus [GPR25L3203F](http://www.generalplus.com/doc/ds/GPR25L3203FV10_ds.pdf)
 
 ## Quad mode timing
 
