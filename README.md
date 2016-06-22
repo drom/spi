@@ -28,6 +28,7 @@ Memory controller for SPI memory
  - Micron [N25Q256A](http://www.micron.com/~/media/Documents/Products/Data%20Sheet/NOR%20Flash/Serial%20NOR/N25Q/n25q_256mb_3v_65nm.pdf)
  - Windbond [W25Q20EW](https://www.winbond.com/resource-files/w25q20ew_revf%2011252015%20sfdp.pdf)
  - ON Semi [LE25S81A](http://www.onsemi.com/pub_link/Collateral/LE25S81A-D.PDF)
+ - ESMT [F25D64QA](http://www.esmt.com.tw/DB/manager/upload/F25D64QA_1.pdf)
 
 ## Quad mode timing
 
