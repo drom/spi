@@ -1,5 +1,5 @@
 
- Spansion,S25FL{004|008|016}K,=HYPERLINK("https://www.spansion.com/Support/Datasheets/S25FL004K-016K_00.pdf")
+ Spansion,S25FL{004|008|016}K,"=HYPERLINK(""https://www.spansion.com/Support/Datasheets/S25FL004K-016K_00.pdf"")"
  Spansion,S25FL{116|132|164}K,(http://www.spansion.com/Support/Datasheets/S25FL1-K_00.pdf) {16|32|64} Mib / 108MHz
  Spansion,S25FL216K],(http://www.spansion.com/Support/Datasheets/S25FL216K_00.pdf) 16 Mib / 65MHz
  Spansion,S25FL{128|256}S],(http://www.spansion.com/Support/Datasheets/S25FL128S_256S_00.pdf) {128|256} Mib / 133MHz
