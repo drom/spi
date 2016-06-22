@@ -31,6 +31,7 @@ Memory controller for SPI memory
  - ESMT [F25D64QA](http://www.esmt.com.tw/DB/manager/upload/F25D64QA_1.pdf)
  - AMIC [A25LQ080](http://www.amictechnology.com/datasheets/A25LQ080.pdf)
  - GeneralPlus [GPR25L3203F](http://www.generalplus.com/doc/ds/GPR25L3203FV10_ds.pdf)
+ - Macronix [MX25L4006E](http://natisbad.org/NAS4/refs/MX25L4006E_3V_4Mb_v1.4.pdf)
 
 ## Quad mode timing
 
