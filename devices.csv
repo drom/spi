@@ -1,13 +1,34 @@
-Company,IC,URL
-Spansion,S25FL{004|008|016}K,"=HYPERLINK(https://www.spansion.com/Support/Datasheets/S25FL004K-016K_00.pdf)"
-Spansion,S25FL{116|132|164}K,(http://www.spansion.com/Support/Datasheets/S25FL1-K_00.pdf) {16|32|64} Mib / 108MHz
-Spansion,S25FL216K],(http://www.spansion.com/Support/Datasheets/S25FL216K_00.pdf) 16 Mib / 65MHz
-Spansion,S25FL{128|256}S],(http://www.spansion.com/Support/Datasheets/S25FL128S_256S_00.pdf) {128|256} Mib / 133MHz
-Micron,N25Q128A,(http://www.micron.com/~/media/Documents/Products/Data%20Sheet/NOR%20Flash/Serial%20NOR/N25Q/n25q_128mb_1_8v_65nm.pdf)
-Micron,N25Q256A,(http://www.micron.com/~/media/Documents/Products/Data%20Sheet/NOR%20Flash/Serial%20NOR/N25Q/n25q_256mb_3v_65nm.pdf)
-Windbond,W25Q20EW,(https://www.winbond.com/resource-files/w25q20ew_revf%2011252015%20sfdp.pdf)
-ON Semi,LE25S81A,(http://www.onsemi.com/pub_link/Collateral/LE25S81A-D.PDF)
-ESMT,F25D64QA,(http://www.esmt.com.tw/DB/manager/upload/F25D64QA_1.pdf)
-AMIC,A25LQ080,(http://www.amictechnology.com/datasheets/A25LQ080.pdf)
-GeneralPlus,GPR25L3203F,(http://www.generalplus.com/doc/ds/GPR25L3203FV10_ds.pdf)
-Macronix,MX25L4006E,(http://natisbad.org/NAS4/refs/MX25L4006E_3V_4Mb_v1.4.pdf)
+Company,IC,Mb,MHz,Dual,Quad,XIP,DTR,$,URL
+,,,,,,,,,
+Spansion,S25FL004K,,,,,,,,https://www.spansion.com/Support/Datasheets/S25FL004K-016K_00.pdf
+Spansion,S25FL008K,,,,,,,,https://www.spansion.com/Support/Datasheets/S25FL004K-016K_00.pdf
+Spansion,S25FL016K,,,,,,,,https://www.spansion.com/Support/Datasheets/S25FL004K-016K_00.pdf
+,,,,,,,,,
+Spansion,S25FL116K,16,108,,,,,,http://www.spansion.com/Support/Datasheets/S25FL1-K_00.pdf
+Spansion,S25FL132K,32,108,,,,,,http://www.spansion.com/Support/Datasheets/S25FL1-K_00.pdf
+Spansion,S25FL164K,64,108,,,,,,http://www.spansion.com/Support/Datasheets/S25FL1-K_00.pdf
+,,,,,,,,,
+Spansion,S25FL216K,16,65,,,,,,http://www.spansion.com/Support/Datasheets/S25FL216K_00.pdf
+,,,,,,,,,
+Spansion,S25FL128S,128,133,,,,,,http://www.spansion.com/Support/Datasheets/S25FL128S_256S_00.pdf
+Spansion,S25FL256S,256,133,,,,,3.86,http://www.spansion.com/Support/Datasheets/S25FL128S_256S_00.pdf
+,,,,,,,,,
+Cypress,S25FL127S,128,108,1,1,1,,2.25,http://www.spansion.com/Support/Datasheets/S25FL127S_00.pdf
+,,,,,,,,,
+Micron,N25Q128A,128,108,1,1,1,1,1.64,http://www.micron.com/~/media/Documents/Products/Data%20Sheet/NOR%20Flash/Serial%20NOR/N25Q/n25q_128mb_1_8v_65nm.pdf
+Micron,N25Q256A,256,108,1,1,1,1,2.74,http://www.micron.com/~/media/Documents/Products/Data%20Sheet/NOR%20Flash/Serial%20NOR/N25Q/n25q_256mb_3v_65nm.pdf
+Micron,N25Q512A,512,108,1,1,1,1,5.2,http://www.micron.com/~/media/Documents/Products/Data%20Sheet/NOR%20Flash/Serial%20NOR/N25Q/n25q_512mb_1ce_3v_65nm.pdf
+Micron,N25Q00AA,1024,108,1,1,1,1,9.15,http://www.micron.com/~/media/Documents/Products/Data%20Sheet/NOR%20Flash/Serial%20NOR/N25Q/n25q_1gb_3v_65nm.pdf
+,,,,,,,,,
+Windbond,W25Q20EW,,,,,,,,https://www.winbond.com/resource-files/w25q20ew_revf%2011252015%20sfdp.pdf
+Windbond,W25Q128FV,128,104,1,1,,,1.52,http://www.winbond.com/resource-files/w25q128fv_revhh1_100913_website1.pdf
+Windbond,W25N01GV,1024,104,1,1,1,,,http://www.winbond.com/resource-files/da00-w25n01gva1.pdf
+,,,,,,,,,
+ON Semi,LE25S81A,,,,,,,,http://www.onsemi.com/pub_link/Collateral/LE25S81A-D.PDF
+ESMT,F25D64QA,,,,,,,,http://www.esmt.com.tw/DB/manager/upload/F25D64QA_1.pdf
+AMIC,A25LQ080,,,,,,,,http://www.amictechnology.com/datasheets/A25LQ080.pdf
+GeneralPlus,GPR25L3203F,,,,,,,,http://www.generalplus.com/doc/ds/GPR25L3203FV10_ds.pdf
+,,,,,,,,,
+Macronix,MX25L4006E,,,,,,,,http://natisbad.org/NAS4/refs/MX25L4006E_3V_4Mb_v1.4.pdf
+Macronix,MX25L12835F,128,133,1,1,,,2.7,"http://www.macronix.com/Lists/DataSheet/Attachments/3253/MX25L12835F,%203V,%20128Mb,%20v1.5.pdf"
+Macronix,MX25L25635F,256,133,1,1,,,4.87,http://media.digikey.com/pdf/Data%20Sheets/Macronix/MX25L25635F.pdf
