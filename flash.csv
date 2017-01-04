@@ -18,6 +18,7 @@ Cypress,S25FS128S,128,133,1,1,1,80,??,
 Cypress,S25FS256S,256,133,1,1,1,80,??,
 Cypress,S25FL128S,128,104,1,1,1,80,??,
 Cypress,S25FL256S,256,104,1,1,1,80,??,
+Cypress,S25FL512S,256,104,1,1,1,80,??,
 ,,,,,,,,,
 Micron,N25Q128A,128,108,1,1,1,1,1.64,http://www.micron.com/~/media/Documents/Products/Data%20Sheet/NOR%20Flash/Serial%20NOR/N25Q/n25q_128mb_1_8v_65nm.pdf
 Micron,N25Q256A,256,108,1,1,1,1,2.74,http://www.micron.com/~/media/Documents/Products/Data%20Sheet/NOR%20Flash/Serial%20NOR/N25Q/n25q_256mb_3v_65nm.pdf
