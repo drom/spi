@@ -14,12 +14,14 @@ Spansion,S25FL128S,128,133,,,,,,http://www.spansion.com/Support/Datasheets/S25FL
 Spansion,S25FL256S,256,133,,,,,3.86,http://www.spansion.com/Support/Datasheets/S25FL128S_256S_00.pdf
 ,,,,,,,,,
 Cypress,S25FL127S,128,108,1,1,1,,2.25,http://www.spansion.com/Support/Datasheets/S25FL127S_00.pdf
+Cypress,S25FS128S,128,133,1,1,1,80,??,
+Cypress,S25FS256S,256,133,1,1,1,80,??,
 ,,,,,,,,,
 Micron,N25Q128A,128,108,1,1,1,1,1.64,http://www.micron.com/~/media/Documents/Products/Data%20Sheet/NOR%20Flash/Serial%20NOR/N25Q/n25q_128mb_1_8v_65nm.pdf
 Micron,N25Q256A,256,108,1,1,1,1,2.74,http://www.micron.com/~/media/Documents/Products/Data%20Sheet/NOR%20Flash/Serial%20NOR/N25Q/n25q_256mb_3v_65nm.pdf
 Micron,N25Q512A,512,108,1,1,1,1,5.2,http://www.micron.com/~/media/Documents/Products/Data%20Sheet/NOR%20Flash/Serial%20NOR/N25Q/n25q_512mb_1ce_3v_65nm.pdf
 Micron,N25Q00AA,1024,108,1,1,1,1,9.15,http://www.micron.com/~/media/Documents/Products/Data%20Sheet/NOR%20Flash/Serial%20NOR/N25Q/n25q_1gb_3v_65nm.pdf
-Micron,MT25QL01GB,1024,133,1,1,1,1,??,
+Micron,MT25QL01GB,1024,133,1,1,1,66,??,
 ,,,,,,,,,
 Windbond,W25Q20EW,,,,,,,,https://www.winbond.com/resource-files/w25q20ew_revf%2011252015%20sfdp.pdf
 Windbond,W25Q128FV,128,104,1,1,,,1.52,http://www.winbond.com/resource-files/w25q128fv_revhh1_100913_website1.pdf
